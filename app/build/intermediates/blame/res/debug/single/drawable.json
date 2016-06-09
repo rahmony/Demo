@@ -36,6 +36,10 @@
         "source": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
+        "merged": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "C:\\Users\\RaHmOnY\\AndroidStudioProjects\\Demo\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
         "merged": "C:\\Users\\FaHaD\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "C:\\Users\\FaHaD\\AndroidStudioProjects\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },

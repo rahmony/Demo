@@ -18,8 +18,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="Large Text"
-            android:id="@+id/textView"
+            android:text="New Task"
+            android:id="@+id/newTask_text_title"
             android:layout_gravity="center_horizontal" />
 
         <EditText
@@ -27,41 +27,43 @@
             android:layout_height="wrap_content"
             android:inputType="number"
             android:ems="10"
-            android:id="@+id/editText"
+            android:id="@+id/newTask_et_taskNo"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="30dp" />
+            android:layout_marginTop="50dp"
+            android:text="Task No :" />
 
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/spinner"
+            android:id="@+id/newTask_spinner_supervisorName"
             android:layout_gravity="center_horizontal"
             android:entries="@array/userList_arrays"
-            android:prompt="@string/userList_prompt"
-            android:layout_marginTop="16dp" />
+            android:layout_marginTop="16dp"
+            android:prompt="Supervisor Name" />
 
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/spinner2"
+            android:id="@+id/newTask_spinner_contractorName"
             android:entries="@array/userList_arrays"
-            android:prompt="@string/userList_prompt"
+            android:prompt="Contractor Name"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="16dp" />
 
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/editText2"
+            android:id="@+id/newTask_et_siteName"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="16dp" />
+            android:layout_marginTop="16dp"
+            android:text="Site Name" />
 
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/spinner3"
+            android:id="@+id/newTask_spinner_ratingModel"
             android:entries="@array/ratingModel_arrays"
-            android:prompt="@string/ratingModel _prompt"
+            android:prompt="Rating Model"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="16dp" />
 
@@ -70,19 +72,22 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="100dp">
+            android:layout_marginTop="80dp"
+            android:layout_weight="1">
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="New Button"
-                android:id="@+id/button" />
+                android:text="Create"
+                android:id="@+id/newTask_btn_create"
+                android:layout_weight="0.5"/>
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="New Button"
-                android:id="@+id/button2" />
+                android:text="Cancel"
+                android:id="@+id/newTask_btn_cancel"
+                android:layout_weight="0.5"/>
         </LinearLayout>
 
     </LinearLayout>
