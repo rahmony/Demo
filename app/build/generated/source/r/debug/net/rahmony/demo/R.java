@@ -1611,7 +1611,8 @@ containing a value of this type.
         public static final int abc_textfield_search_activated_mtrl_alpha=0x7f020048;
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020049;
         public static final int abc_textfield_search_material=0x7f02004a;
-        public static final int notification_template_icon_bg=0x7f02004b;
+        public static final int notification_template_icon_bg=0x7f02004c;
+        public static final int splash=0x7f02004b;
     }
     public static final class id {
         public static final int action0=0x7f0c0081;
@@ -1791,23 +1792,25 @@ containing a value of this type.
         public static final int abc_search_view=0x7f040017;
         public static final int abc_select_dialog_material=0x7f040018;
         public static final int activity_add_user=0x7f040019;
-        public static final int activity_completed_task=0x7f04001a;
-        public static final int activity_current_task=0x7f04001b;
-        public static final int activity_info_user=0x7f04001c;
-        public static final int activity_login=0x7f04001d;
-        public static final int activity_user_list=0x7f04001e;
-        public static final int notification_media_action=0x7f04001f;
-        public static final int notification_media_cancel_action=0x7f040020;
-        public static final int notification_template_big_media=0x7f040021;
-        public static final int notification_template_big_media_narrow=0x7f040022;
-        public static final int notification_template_lines=0x7f040023;
-        public static final int notification_template_media=0x7f040024;
-        public static final int notification_template_part_chronometer=0x7f040025;
-        public static final int notification_template_part_time=0x7f040026;
-        public static final int select_dialog_item_material=0x7f040027;
-        public static final int select_dialog_multichoice_material=0x7f040028;
-        public static final int select_dialog_singlechoice_material=0x7f040029;
-        public static final int support_simple_spinner_dropdown_item=0x7f04002a;
+        public static final int activity_admin=0x7f04001a;
+        public static final int activity_completed_task=0x7f04001b;
+        public static final int activity_current_task=0x7f04001c;
+        public static final int activity_info_user=0x7f04001d;
+        public static final int activity_login=0x7f04001e;
+        public static final int activity_splash_screen=0x7f04001f;
+        public static final int activity_user_list=0x7f040020;
+        public static final int notification_media_action=0x7f040021;
+        public static final int notification_media_cancel_action=0x7f040022;
+        public static final int notification_template_big_media=0x7f040023;
+        public static final int notification_template_big_media_narrow=0x7f040024;
+        public static final int notification_template_lines=0x7f040025;
+        public static final int notification_template_media=0x7f040026;
+        public static final int notification_template_part_chronometer=0x7f040027;
+        public static final int notification_template_part_time=0x7f040028;
+        public static final int select_dialog_item_material=0x7f040029;
+        public static final int select_dialog_multichoice_material=0x7f04002a;
+        public static final int select_dialog_singlechoice_material=0x7f04002b;
+        public static final int support_simple_spinner_dropdown_item=0x7f04002c;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
