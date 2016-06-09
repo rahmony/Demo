@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Demo</string>
+
+    <string name="userList_prompt">Choose an user : </string>
+    <string-array name="userList_arrays">
+        <item>Khaild Alharbi</item>
+        <item>Fahad Alharbi</item>
+    </string-array>
+
+
+    <string name="ratingModel_prompt">Choose a Rating Model: </string>
+    <string-array name="ratingModel_arrays">
+        <item>Warehouse || Form A </item>
+        <item>Residence || Form B </item>
+    </string-array>
+
 </resources>

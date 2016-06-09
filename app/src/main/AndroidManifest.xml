@@ -11,17 +11,17 @@
         <activity android:name=".LoginActivity">
 
         </activity>
-        <activity android:name=".SplashScreenActivity">
+        <activity android:name=".CurrentTaskActivity" />
+        <activity android:name=".UserListActivity" />
+        <activity android:name=".AddUserActivity" />
+        <activity android:name=".NewTaskActivity">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CurrentTaskActivity" />
-        <activity android:name=".UserListActivity" />
-        <activity android:name=".AddUserActivity" />
-        <activity android:name=".AdminActivity"></activity>
     </application>
 
 </manifest>

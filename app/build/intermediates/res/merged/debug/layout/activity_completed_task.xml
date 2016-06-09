@@ -52,7 +52,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="4/6/2016 ||  2:30 p.m "
+                    android:text="4/6/2016"
                     android:id="@+id/currentTask_text_date_one"
                     android:textSize="15dp"
                     android:layout_marginLeft="12dp" />
@@ -78,7 +78,7 @@
                     android:gravity="right"
                     android:id="@+id/currentTask_text_form_one"
                     android:textSize="15dp"
-                    android:layout_marginLeft="66dp" />
+                    android:layout_marginLeft="16dp" />
             </LinearLayout>
         </LinearLayout>
 
@@ -104,7 +104,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="5/6/2016 ||  8:30 a.m "
+                    android:text="5/6/2016"
                     android:id="@+id/currentTask_text_date_two"
                     android:textSize="15dp"
                     android:layout_marginLeft="100dp" />
@@ -130,7 +130,7 @@
                     android:gravity="right"
                     android:id="@+id/currentTask_text_form_two"
                     android:textSize="15dp"
-                    android:layout_marginLeft="80dp" />
+                    android:layout_marginLeft="35dp" />
             </LinearLayout>
         </LinearLayout>
 

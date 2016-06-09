@@ -15,15 +15,17 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity android:name="net.rahmony.demo.LoginActivity" >
+        </activity>
+        <activity android:name="net.rahmony.demo.CurrentTaskActivity" />
+        <activity android:name="net.rahmony.demo.UserListActivity" />
+        <activity android:name="net.rahmony.demo.AddUserActivity" />
+        <activity android:name="net.rahmony.demo.NewTaskActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="net.rahmony.demo.CurrentTaskActivity" />
-        <activity android:name="net.rahmony.demo.UserListActivity" />
-        <activity android:name="net.rahmony.demo.AddUserActivity" />
     </application>
 
 </manifest>
