@@ -14,4 +14,8 @@
         <item>Residence || Form B </item>
     </string-array>
 
+    <!--########################### Spinner ################################# -->
+    <string name="Supervisor_Name">Supervisor Name</string>
+    <string name="Contractor_Name">Contractor Name</string>
+    <string name="Rating_Model">Rating Model</string>
 </resources>

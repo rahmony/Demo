@@ -39,14 +39,14 @@
             android:layout_gravity="center_horizontal"
             android:entries="@array/userList_arrays"
             android:layout_marginTop="16dp"
-            android:prompt="Supervisor Name" />
+            android:prompt="@string/Supervisor_Name" />
 
         <Spinner
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/newTask_spinner_contractorName"
             android:entries="@array/userList_arrays"
-            android:prompt="Contractor Name"
+            android:prompt="@string/Contractor_Name"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="16dp" />
 
@@ -63,7 +63,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/newTask_spinner_ratingModel"
             android:entries="@array/ratingModel_arrays"
-            android:prompt="Rating Model"
+            android:prompt="@string/Rating_Model"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="16dp" />
 
