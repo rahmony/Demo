@@ -33,7 +33,7 @@ MERGED from [com.android.support:support-v4:23.4.0] C:\Users\RaHmOnY\AndroidStud
 	android:theme
 		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:10:9-40
 activity#net.rahmony.demo.SplashScreenActivity
-ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:11:9-20:20
+ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:11:9-21:20
 	android:theme
 		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:13:13-63
 	android:name
@@ -49,45 +49,41 @@ ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManif
 	android:name
 		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:17:27-74
 activity#net.rahmony.demo.LoginActivity
-ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:21:9-51
+ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:22:9-51
 	android:name
-		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:21:19-48
+		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:22:19-48
 activity#net.rahmony.demo.NewTaskActivity
-ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:22:9-53
+ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:23:9-53
 	android:name
-		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:22:19-50
+		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:23:19-50
 activity#net.rahmony.demo.CurrentTaskActivity
-ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:23:9-57
+ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:24:9-57
 	android:name
-		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:23:19-54
+		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:24:19-54
 activity#net.rahmony.demo.CompletedTaskActivity
-ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:24:9-59
+ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:25:9-59
 	android:name
-		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:24:19-56
+		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:25:19-56
 activity#net.rahmony.demo.InfoUserActivity
-ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:25:9-54
-	android:name
-		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:25:19-51
-activity#net.rahmony.demo.UserListActivity
 ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:26:9-54
 	android:name
 		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:26:19-51
+activity#net.rahmony.demo.UserListActivity
+ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:27:9-54
+	android:name
+		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:27:19-51
 activity#net.rahmony.demo.AddUserActivity
-ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:27:9-53
+ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:28:9-53
 	android:name
-		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:27:19-50
-activity#net.rahmony.demo.AdminActivity
-ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:28:9-51
+		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:28:19-50
+activity#net.rahmony.demo.MainActivity
+ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:29:9-50
 	android:name
-		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:28:19-48
+		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:29:19-47
 activity#net.rahmony.demo.SettingsActivity
-ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:29:9-54
+ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:30:9-54
 	android:name
-		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:29:19-51
-activity#net.rahmony.demo.SupervisorActivity
-ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:30:9-56
-	android:name
-		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:30:19-53
+		ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:30:19-51
 activity#net.rahmony.demo.EvaluationFormActivity
 ADDED from C:\Users\RaHmOnY\AndroidStudioProjects\Demo\app\src\main\AndroidManifest.xml:31:9-60
 	android:name

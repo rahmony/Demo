@@ -25,16 +25,10 @@ public class LoginActivity extends AppCompatActivity {
         mBtn_login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if(mLogin_et_id.getText().toString().equalsIgnoreCase("1"))
-                {
-                    startActivity(new Intent(getBaseContext(),AdminActivity.class));
-                }
-                else if(mLogin_et_id.getText().toString().equalsIgnoreCase("2"))
-                {
-                    startActivity(new Intent(getBaseContext(),SupervisorActivity.class));
-                }
+                if(mLogin_et_id.getText().toString().equalsIgnoreCase("1") || mLogin_et_id.getText().toString().equalsIgnoreCase("2") )
+                    startActivity(new Intent(getBaseContext(),MainActivity.class).putExtra("Type",mLogin_et_id.getText().toString()));
                 else
-                    Toast.makeText(getBaseContext(),"ID or Password are Error !!",Toast.LENGTH_LONG).show();
+                    Toast.makeText(getBaseContext(),"ID is Error !!" , Toast.LENGTH_LONG).show();
 
             }
         });

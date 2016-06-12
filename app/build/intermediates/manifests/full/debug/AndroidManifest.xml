@@ -30,9 +30,8 @@
         <activity android:name="net.rahmony.demo.InfoUserActivity" />
         <activity android:name="net.rahmony.demo.UserListActivity" />
         <activity android:name="net.rahmony.demo.AddUserActivity" />
-        <activity android:name="net.rahmony.demo.AdminActivity" />
+        <activity android:name="net.rahmony.demo.MainActivity" />
         <activity android:name="net.rahmony.demo.SettingsActivity" />
-        <activity android:name="net.rahmony.demo.SupervisorActivity" />
         <activity android:name="net.rahmony.demo.EvaluationFormActivity" />
     </application>
 

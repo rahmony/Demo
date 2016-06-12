@@ -17,6 +17,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
 
+
         </activity>
         <activity android:name=".LoginActivity" />
         <activity android:name=".NewTaskActivity" />
@@ -25,9 +26,8 @@
         <activity android:name=".InfoUserActivity" />
         <activity android:name=".UserListActivity" />
         <activity android:name=".AddUserActivity" />
-        <activity android:name=".AdminActivity" />
+        <activity android:name=".MainActivity" />
         <activity android:name=".SettingsActivity" />
-        <activity android:name=".SupervisorActivity" />
         <activity android:name=".EvaluationFormActivity" />
     </application>
 
