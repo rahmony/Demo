@@ -14,7 +14,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="180dp"
-        android:layout_marginBottom="180dp">
+        android:layout_marginBottom="180dp"
+        android:id="@+id/linearLayout3">
 
         <EditText
             android:layout_width="match_parent"
@@ -45,4 +46,26 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="81dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="To login as  Supervisor type 2 in Employee ID"
+        android:id="@+id/textView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/linearLayout3"
+        android:layout_alignEnd="@+id/linearLayout3"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="To login as  Admin type 1 in Employee ID"
+        android:id="@+id/textView2"
+        android:layout_above="@+id/textView"
+        android:layout_alignRight="@+id/linearLayout3"
+        android:layout_alignEnd="@+id/linearLayout3"
+        android:textSize="18sp"/>
 </RelativeLayout>

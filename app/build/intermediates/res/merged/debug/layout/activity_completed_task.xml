@@ -27,7 +27,7 @@
                 android:textAppearance="?android:attr/textAppearanceLarge"
                 android:text="Completed Tasks "
                 android:gravity="center"
-                android:id="@+id/currentTask_text_title" />
+                android:id="@+id/completedTask_text_title" />
         </LinearLayout>
 
         <LinearLayout
@@ -46,14 +46,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Warehouse heavy equipment "
-                    android:id="@+id/currentTask_text_siteName_one"
+                    android:id="@+id/completedTask_text_siteName_one"
                     android:textSize="15dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="4/6/2016"
-                    android:id="@+id/currentTask_text_date_one"
+                    android:id="@+id/completedTask_text_date_one"
                     android:textSize="15dp"
                     android:layout_marginLeft="12dp" />
             </LinearLayout>
@@ -68,7 +68,7 @@
                     android:layout_height="wrap_content"
                     android:text="Abdulrahman Aljabri "
                     android:gravity="left"
-                    android:id="@+id/currentTask_text_supervisorName_one"
+                    android:id="@+id/completedTask_text_supervisorName_one"
                     android:textSize="15dp" />
 
                 <TextView
@@ -76,7 +76,7 @@
                     android:layout_height="wrap_content"
                     android:text="Warehouse || Form A "
                     android:gravity="right"
-                    android:id="@+id/currentTask_text_form_one"
+                    android:id="@+id/completedTask_text_form_one"
                     android:textSize="15dp"
                     android:layout_marginLeft="16dp" />
             </LinearLayout>
@@ -98,14 +98,14 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Staff residence"
-                    android:id="@+id/currentTask_text_siteName_two"
+                    android:id="@+id/completedTask_text_siteName_two"
                     android:textSize="15dp" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="5/6/2016"
-                    android:id="@+id/currentTask_text_date_two"
+                    android:id="@+id/completedTask_text_date_two"
                     android:textSize="15dp"
                     android:layout_marginLeft="100dp" />
             </LinearLayout>
@@ -120,7 +120,7 @@
                     android:layout_height="wrap_content"
                     android:text="Fahad AlMehmadi"
                     android:gravity="left"
-                    android:id="@+id/currentTask_text_supervisorName_two"
+                    android:id="@+id/completedTask_text_supervisorName_two"
                     android:textSize="15dp" />
 
                 <TextView
@@ -128,7 +128,7 @@
                     android:layout_height="wrap_content"
                     android:text="Residence || Form B "
                     android:gravity="right"
-                    android:id="@+id/currentTask_text_form_two"
+                    android:id="@+id/completedTask_text_form_two"
                     android:textSize="15dp"
                     android:layout_marginLeft="35dp" />
             </LinearLayout>
@@ -140,7 +140,7 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="back"
-        android:id="@+id/currentTask_back"
+        android:id="@+id/completedTask_back"
         android:layout_alignBottom="@+id/linearLayout"
         android:layout_centerHorizontal="true" />
 

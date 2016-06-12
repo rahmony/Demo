@@ -39,7 +39,7 @@
             android:layout_gravity="center_horizontal"
             android:entries="@array/userList_arrays"
             android:layout_marginTop="16dp"
-            android:prompt="@string/Supervisor_Name" />
+            />
 
         <Spinner
             android:layout_width="match_parent"
@@ -72,8 +72,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="80dp"
-            android:layout_weight="1">
+            android:layout_marginTop="80dp">
 
             <Button
                 android:layout_width="wrap_content"
